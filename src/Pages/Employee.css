@@ -1,0 +1,18 @@
+#employee {
+    padding: 24px;
+    margin: 20px 0;
+    background-color: #f1f5f9;
+    color: #1e293b;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#employee h2 {
+    color: #0f172a;
+    margin-bottom: 12px;
+}
+
+#employee p {
+    color: #475569;
+    font-size: 16px;
+}
